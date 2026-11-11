@@ -1,95 +1,76 @@
 # Adittya Pratama
 
-**Full-Stack Software Engineer · Backend & Systems · SaaS · AI/RAG**
+**Full-Stack Developer & System Analyst · Backend & Systems · Enterprise Systems**
 
-I build production-oriented web applications and business systems, with a focus on backend architecture, SaaS, data-driven applications, and AI-assisted development.
+I build and run production web systems for institutions: student information systems, admissions, and accounting. Based in Tasikmalaya, Indonesia. At UPT TIK, Universitas Perjuangan Tasikmalaya since 2023, and open to remote contract projects.
 
-Currently exploring the intersection of **software engineering, distributed systems, and applied AI/RAG**.
+Portfolio: [adittya-pratama.vercel.app](https://adittya-pratama.vercel.app/)
 
 ---
 
 ### What I Build
 
-* **Backend & Systems** — API design, business logic, RBAC, domain-oriented architecture
-* **Full-Stack Applications** — React-based web applications, PWA, responsive interfaces
-* **SaaS & Business Systems** — Accounting, inventory, operational and multi-tenant workflows
-* **AI & RAG** — Retrieval-augmented generation, query normalization, reranking, developer tooling
-* **Data & Analytics** — Data processing and predictive analytics
+* **Backend & Systems:** API design, business logic, RBAC, transaction-safe schemas
+* **Full-Stack Applications:** Next.js and React web applications, PWA, responsive interfaces
+* **Enterprise & Academic Systems:** student information systems and admissions platforms used by 5,000+ active students, faculty, and staff
+* **Business Systems:** double-entry accounting, inventory, and multi-company workflows
+* **Operations:** Linux servers, Cloudflare edge rules, Docker, database backups
 
 ---
 
 ### Selected Projects
 
-#### [Dolanan](https://github.com/adittyapratama2/Dolanan)
+#### SIMANTAP + PMB *(production, university-owned)*
 
-Gamified learning platform for elementary education, structured as a monorepo with separate API, web, game, and shared packages.
+Student information system (Laravel) and admissions platform (NestJS) of Universitas Perjuangan Tasikmalaya. I work on both as system analyst and full-stack developer.
+
+`Laravel` · `NestJS` · `MySQL` · `Cloudflare` · `Linux`
+
+#### Factory accounting engine *(former employer, private)*
+
+The first enterprise double-entry accounting engine of PT Padud Jaya Putera: ledger postings, trial balance, and financial statements from one source.
+
+`Node.js` · `NestJS` · `MySQL`
+
+#### Dolanan *(private repository)*
+
+Event-driven monorepo for a gamified learning platform, with separate API, web, game, and shared packages, and Architecture Decision Records for each major choice.
 
 `NestJS` · `Next.js` · `Phaser.js` · `Prisma` · `PostgreSQL` · `RabbitMQ` · `Redis`
 
-#### Goat Track *(Private / Internal Project)*
+#### Goat Track *(private / internal)*
 
-Livestock management platform for goat farms, covering animal records, farm and cage management, farmer assignments, QR identification, and genealogy.
+Livestock management platform for goat farms: animal records, farm and cage management, QR identification, and genealogy.
 
 `React` · `TypeScript` · `Prisma` · `PostgreSQL` · `PWA` · `Docker`
 
 #### [Mastitis Data Science Project](https://github.com/adittyapratama2/mastitis-ds-project)
 
-Data science project exploring analysis and predictive modeling around mastitis-related data with Explainable AI (SHAP).
+Explainable AI (SHAP) and Random Forest decision support for early subclinical mastitis detection in dairy cattle.
 
-`Python` · `Random Forest` · `SHAP (XAI)` · `Machine Learning`
-
-#### [Backend API — Goat Farm](https://github.com/adittyapratama2/backend-api-kambing)
-
-RESTful backend service powering livestock operations, genealogy records, QR identification, and dairy telemetry.
-
-`Node.js` · `Express` · `Sequelize` · `MySQL` · `JWT`
+`Python` · `Random Forest` · `SHAP`
 
 ---
 
 ### Technical Stack
 
-**Languages**
+**Languages:** `TypeScript` `JavaScript` `PHP` `Python` `SQL` `Bash`
 
-`TypeScript` `JavaScript` `Python` `PHP` `SQL` `Bash`
+**Backend:** `NestJS` `Laravel` `Node.js` `Express`
 
-**Backend**
+**Frontend:** `Next.js` `React` `Vite` `Redux Toolkit` `Tailwind CSS`
 
-`Node.js` `NestJS` `Express` `Laravel`
+**Data & Infrastructure:** `MySQL` `PostgreSQL` `Redis` `RabbitMQ` `Prisma` `Docker` `Linux` `Nginx` `Cloudflare`
 
-**Frontend**
-
-`React` `Next.js` `Vite` `Redux Toolkit` `Tailwind CSS`
-
-**Data & Infrastructure**
-
-`PostgreSQL` `MySQL` `Redis` `Prisma` `Docker` `Linux` `Nginx`
-
-**Architecture**
-
-`REST API` `Microservices` `DDD` `Clean Architecture` `RBAC`
-
-**AI / Data**
-
-`RAG` `LLM` `Vector Search` `Predictive Analytics`
+**Architecture:** `REST API` `Microservices` `DDD` `Clean Architecture` `RBAC`
 
 ---
 
 ### Research
 
-**M.Sc. Informatics — Big Data & Predictive Analytics**
+M.Kom. in Informatics (Big Data and Predictive Analytics), Universitas AMIKOM Yogyakarta, in progress.
 
-Research focus:
-
-> Optimizing RAG with intent-aware normalization and role-based reranking for academic information services using Indonesian–Sundanese code-mixed queries.
-
-Research interests include:
-
-* Retrieval-Augmented Generation
-* Information Retrieval
-* Query normalization
-* Reranking
-* Code-mixed language processing
-* Academic information systems
+Thesis topic: retrieval-augmented generation for academic information services, with intent-aware query normalization for Indonesian–Sundanese code-mixed questions.
 
 ---
 
@@ -106,9 +87,9 @@ Practical automation
 
 ---
 
-### Connect
+### Contact
 
-* **GitHub:** [github.com/adittyapratama2](https://github.com/adittyapratama2)
 * **Email:** [adittyapratama2@gmail.com](mailto:adittyapratama2@gmail.com)
-* **LinkedIn:** [Adittya Pratama](https://www.linkedin.com/in/adittyapratama)
+* **LinkedIn:** [Adittya Pratama](https://www.linkedin.com/in/adittya-pratama1509)
+* **Portfolio:** [adittya-pratama.vercel.app](https://adittya-pratama.vercel.app/)
 * **Resume:** [CV](https://github.com/adittyapratama2/cv)
