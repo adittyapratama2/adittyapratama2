@@ -32,7 +32,7 @@ The first enterprise double-entry accounting engine of PT Padud Jaya Putera: led
 
 `Node.js` · `NestJS` · `MySQL`
 
-#### Dolanan *(private repository)*
+#### [Dolanan](https://ayodolanan.com) *(live, source repository private)*
 
 Event-driven monorepo for a gamified learning platform, with separate API, web, game, and shared packages, and Architecture Decision Records for each major choice.
 
